@@ -1,24 +1,24 @@
-# 🧠 Design of advanced embedded systems
+# 🧠 Design of Advanced Embedded Systems
 
-Este repositorio contiene los proyectos, prácticas y recursos desarrollados durante el curso de **Design of advanced embedded systems**. El objetivo de esta materia es diseñar, implementar y probar sistemas embebidos complejos en un solo chip, integrando módulos de procesamiento, control, comunicación y periféricos.
+This repository contains projects, labs, and resources developed during the **Design of Advanced Embedded Systems** course. The objective of this subject is to design, implement, and test complex single-chip embedded systems by integrating processing modules, control systems, communication protocols, and peripherals.
 
-## 📚 Contenido del repositorio
+## 📚 Repository Contents
 ```
 Design of advanced embedded systems/
-├── README.md                                  <- README principal del repositorio
-└── practicas_vilchis/                         <- Directorio para las prácticas
-    ├── UART_GPIO/                             <- Práctica: UART utilizando GPIOs
-    │   ├── README.md                          <- README específico de esta práctica
-    │   ├── UART_GPIO_demo.mp4                 <- Video de la demo
-    │   └── main.c                             <- Código main de UART Periféricos
-    └── UART_Perifericos/                      <- Práctica: UART utilizando Periféricos
-        ├── README.md                          <- README específico de esta práctica
-        ├── UART_Perifericos_demo.mp4          <- Video de la demo
-        └── main.c                             <- Código main de UART Periféricos
+├── README.md                                  <- Main repository README
+└── labs_vilchis/                              <- Directory for lab assignments
+    ├── UART_GPIO/                             <- Lab: UART using GPIOs
+    │   ├── README.md                          <- Lab-specific README
+    │   ├── UART_GPIO_demo.mp4                 <- Demo video
+    │   └── main.c                             <- Main code for UART via GPIO
+    └── UART_Peripherals/                      <- Lab: UART using Hardware Peripherals
+        ├── README.md                          <- Lab-specific README
+        ├── UART_Peripherals_demo.mp4          <- Demo video
+        └── main.c                             <- Main code for UART via Peripherals
 ```
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Technologies and Tools
 
-- 🧬 **FreeRTOS** sistema operativo en tiempo real (RTOS)
-- 🔧 **STM32 Cube IDE** entorno de desarrollo integrado (IDE)
-- 🧪 **Osciloscopio o Analizador de Protocolos** para observación de las señales
+- 🧬 **FreeRTOS** real-time operating system (RTOS)
+- 🔧 **STM32 Cube IDE** integrated development environment (IDE)
+- 🧪 **Oscilloscope or Protocol Analyzer** for signal observation and analysis
