@@ -11,10 +11,14 @@ Design of advanced embedded systems/
     │   ├── README.md                          <- Lab-specific README
     │   ├── UART_GPIO_demo.mp4                 <- Demo video
     │   └── main.c                             <- Main code for UART via GPIO
-    └── UART_Peripherals/                      <- Lab: UART using Hardware Peripherals
-        ├── README.md                          <- Lab-specific README
-        ├── UART_Peripherals_demo.mp4          <- Demo video
-        └── main.c                             <- Main code for UART via Peripherals
+    ├── UART_Peripherals/                      <- Lab: UART using Hardware Peripherals
+    │   ├── README.md                          <- Lab-specific README
+    │   ├── UART_Peripherals_demo.mp4          <- Demo video
+    │   └── main.c                             <- Main code for UART via Peripherals
+    └── SPI_GPIO/
+       ├── README.md                          <- Lab-specific README
+       ├── SPI_GPIO_demo.mp4                  <- Demo video
+       └── main.c                             <- Main code for SPI via GPIO
 ```
 
 ## 🛠️ Technologies and Tools
